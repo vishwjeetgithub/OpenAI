@@ -1,6 +1,7 @@
 https://github.com/f/awesome-chatgpt-prompts/tree/main
 https://github.com/dair-ai/Prompt-Engineering-Guide/tree/main/notebooks
 https://arxiv.org/pdf/2302.11382
+https://arxiv.org/pdf/2005.14165
 https://www.youtube.com/watch?v=FvEIkJ3oWSA&ab_channel=IPSRAcademiX
 https://medium.com/@leonardocamacho/breaking-down-the-science-behind-gpt-4s-self-critic-algorithm-6774102044d4
 https://davefriedman.substack.com/p/mastering-chatgpt-with-iterative
