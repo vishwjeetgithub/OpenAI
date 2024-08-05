@@ -8,6 +8,13 @@ https://openai.com/index/chatgpt-plugins/#code-interpreter
 https://ai.stanford.edu/blog/understanding-incontext/
 https://platform.openai.com/docs/guides/fine-tuning
 
+Chain of thought
+=================================
+https://www.promptingguide.ai/techniques/cot
+https://arxiv.org/abs/2201.11903
+https://arxiv.org/pdf/2205.11916
+
+
 From Upgrad
 ==================================
 https://drive.google.com/drive/folders/1fvX__dbBV4yZO-iChyQ4uVQpK9PDmmsh
