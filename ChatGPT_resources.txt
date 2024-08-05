@@ -7,6 +7,8 @@ https://davefriedman.substack.com/p/mastering-chatgpt-with-iterative
 https://openai.com/index/chatgpt-plugins/#code-interpreter
 https://ai.stanford.edu/blog/understanding-incontext/
 https://platform.openai.com/docs/guides/fine-tuning
+https://www.promptingguide.ai/techniques/rag
+https://towardsdatascience.com/in-context-learning-approaches-in-large-language-models-9c0c53b116a1#:~:text=LLMs%20demonstrate%20an%20in%2Dcontext,is%20to%20learn%20from%20analogy
 
 Chain of thought
 =================================
