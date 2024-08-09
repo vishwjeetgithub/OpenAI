@@ -22,3 +22,12 @@ https://www.promptingguide.ai/techniques/tot
 From Upgrad
 ==================================
 https://drive.google.com/drive/folders/1fvX__dbBV4yZO-iChyQ4uVQpK9PDmmsh
+
+Industry Use Cases
+==================================
+https://openai.com/customer-stories
+
+Advanced Prompting for Designing AI Systems
+==================================
+Self-consistency prompting
+ReAct prompting
